@@ -32,6 +32,14 @@ input {
     border: none;
 }
 
+.progress-ring {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.3px solid rgb(197, 0, 46);
+    border-radius: 50%;
+}
+
 .btn-group {
     display: flex;
     justify-content: space-between;
