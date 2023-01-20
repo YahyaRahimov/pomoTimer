@@ -11,7 +11,7 @@
 body {
     height: 100vh;
     padding: 35px;
-    background: rgb(243, 243, 243);
+    background: rgb(220, 220, 220);
     color: #131313;
     font-family: "Montserrat", sans-serif;
 }
@@ -69,25 +69,30 @@ form button {
 }
 
 .start {
+    border-radius: 7px;
     background: rgb(48, 33, 253);
     color: white;
 }
 
 .break {
+    border-radius: 5px;
     background: rgb(0, 199, 116);
     color: #000000;
 }
 
 .reset {
+    border-radius: 7px;
     background: rgb(250, 69, 109);
     color: #000000;
 }
 
 .pause {
+    border-radius: 7px;
     background: rgb(253, 143, 17);
 }
 
 .resume {
+    border-radius: 7px;
     background: rgb(131, 10, 252);
     color: white;
 }
